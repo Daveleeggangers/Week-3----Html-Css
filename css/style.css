@@ -1,0 +1,42 @@
+body {
+	background-color: #000;
+	float: 0;
+	padding: 0;
+}
+
+#vloot1 {
+	border:1px solid #F4A950;
+	width: 25em;
+	height: 10%;
+	float: left;
+}
+
+#vloot2 {
+	border:1px solid #F4A950;
+	width: 25em;
+	height: 10%;
+	float: right;
+}
+
+.main {
+	font-size: 18px;
+	background-color: #161B21;
+	margin-left: 100px; 
+	margin-right: 100px;
+	border:1px solid #F4A950;
+	padding: 20px 60px 2% 60px;
+}
+
+p {
+	color: #F4A950;
+	font-size: 25px;
+}
+
+h1 {
+	color: #F4A950;
+	font-size: 40px;
+}
+
+img {
+	margin: 20px;
+}
